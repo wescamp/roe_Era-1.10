@@ -1,0 +1,22 @@
+version 0.0.1pre-alpha Feature:
+	-faction:-no graphics 
+	Captain	Lv2 ADV
+	General-Mixed	Lv3	ADV
+	General-Ranged	Lv3	ADV
+	General-Spear	Lv3	ADV
+	*Marshal	Lv4	ADV
+	
+	*Advicer	Lv2 	HP 38 
+	*Advicer	Lv3 	HP 38	ADV
+	
+	Dao	lv1 HP 33 steadfast
+	Nu	lv1 HP 33
+	Nu-E	lv2 HP 38	ADV
+	Mao	lv1 hp 33 charge
+	
+	*Wheels	lv1 hp 80 
+	*Wheels	lv2 hp 80 wine
+	
+	
+	
+	
